@@ -1,6 +1,4 @@
 [submodule "pypsa"]
 	path = pypsa
 	url = https://github.com/dlr-ve-esy/pypsa-eraa
-[submodule "resources"]
-	path = resources
-	url = https://github.com/dlr-ve-esy/eraa-resources
+	branch = main
