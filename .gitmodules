@@ -2,3 +2,9 @@
 	path = pypsa
 	url = https://github.com/dlr-ve-esy/pypsa-eraa
 	branch = main
+
+[submodule "remix"]
+	path = remix
+	url = https://github.com/dlr-ve-esy/remix-eraa.git
+	branch = main
+
